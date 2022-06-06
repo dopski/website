@@ -1,0 +1,25 @@
+body {
+    background-color: #faf1bd;
+}
+
+.navbar-toggler-icon {
+
+    color: darkkhaki;
+}
+
+.col {
+    background-color: #9ea7af;
+    color: #3b4132;
+}
+
+#a_footer {
+    text-decoration: none;
+}
+
+#offcanvas {
+    background-color: rgb(222, 247, 199);
+}
+
+#offcanvas-reg {
+    background-color: rgb(247, 245, 149);
+}
